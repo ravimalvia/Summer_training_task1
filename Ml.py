@@ -106,7 +106,7 @@ model.intercept_
 
 
 # In[43]:
-
+#prediction:
 no_of_students=int(input("how many students marks you want to predict : "))
 for i in range(no_of_students):
     hour=input("how much hours do you study? :")
